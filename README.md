@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## seed
+
+```bash
+npx prisma db seed
+```
+
+```bash
+npx prisma studio
+```
